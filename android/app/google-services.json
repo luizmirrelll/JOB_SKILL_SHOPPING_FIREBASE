@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "878322060831",
+    "firebase_url": "https://aloysiusmirel.firebaseio.com",
+    "project_id": "aloysiusmirel",
+    "storage_bucket": "aloysiusmirel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878322060831:android:8dad8467c532fd5d000f2a",
+        "android_client_info": {
+          "package_name": "com.dicoding.shoping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878322060831-4fpjhbtsuirdeipc61mmtlg2vmhj7aa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnVvunijJOiwBdQ1HZIbixRcy-vgHlaiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878322060831-4fpjhbtsuirdeipc61mmtlg2vmhj7aa7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "878322060831-v190pb0k0rjsflufpbldbr34a6jalu7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dicoding.siap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878322060831:android:ac1f58495c1c8ecd000f2a",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878322060831-4fpjhbtsuirdeipc61mmtlg2vmhj7aa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnVvunijJOiwBdQ1HZIbixRcy-vgHlaiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878322060831-4fpjhbtsuirdeipc61mmtlg2vmhj7aa7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "878322060831-v190pb0k0rjsflufpbldbr34a6jalu7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dicoding.siap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878322060831:android:7376a01ff06397e8000f2a",
+        "android_client_info": {
+          "package_name": "com.example.task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878322060831-4fpjhbtsuirdeipc61mmtlg2vmhj7aa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnVvunijJOiwBdQ1HZIbixRcy-vgHlaiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878322060831-4fpjhbtsuirdeipc61mmtlg2vmhj7aa7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "878322060831-v190pb0k0rjsflufpbldbr34a6jalu7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dicoding.siap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

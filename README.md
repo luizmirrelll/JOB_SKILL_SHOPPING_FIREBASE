@@ -79,7 +79,7 @@ SELAMAT MENCOBA
 -sekian dan terima kasih
 
 ## CARA INSTALL
-## [CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE](https://youtu.be/SGoaK9ZJEcc)
+## [VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE](https://youtu.be/SGoaK9ZJEcc)
 ![Preview](/1.jpg)
 ![Preview](2.jpg)
 ![Preview](3.jpg)

@@ -2,17 +2,17 @@
 
 1. [Persiapan](#Persiapan)
 
-2. [INSTALL FLUTTER](# INSTALL FLUTTER)
+2. [INSTALL FLUTTER](#INSTALL-FLUTTER)
 
-3. [Firebase Isntall](# FIREBASE)
+3. [Firebase Isntall](#FIREBASE)
 
-4. [Install Project](# INSTALASI PROJECT)
+4. [Install Project](#INSTALASI-PROJECT)
 
-5. [APLIKASI SHOPING DENGAN FIREBASE](# APLIKASI SHOPING DENGAN FIREBASE)
+5. [APLIKASI SHOPING DENGAN FIREBASE](#APLIKASI-SHOPING-DENGAN-FIREBASE)
 
-4. [VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE](# VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE)
+4. [VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE](#VIDEO-CARA-PENGOPERASIKAN-APLIKASI-SHOP-FIREBASE)
 
-4. [Tampilan Aplikasi](# Tampilan Aplikasi)
+4. [Tampilan Aplikasi](#Tampilan-Aplikasi)
 
 ## Persiapan
 -------------------------------------------------------------------------------------------------------------------------------

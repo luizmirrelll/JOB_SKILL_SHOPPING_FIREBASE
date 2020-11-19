@@ -78,8 +78,12 @@ SELAMAT MENCOBA
 - untuk mengecek apa saja yang dibeli beisa langsung ke tombol keranjang di bagian bawah pojok kanan setelah diklik akan muncul item yang dibeli dan bila tidak ingin membeli silahkan klik hapus pada icon hapus pada pojok kanan atas.
 -sekian dan terima kasih
 
-## CARA INSTALL
+
 ## [VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE](https://youtu.be/SGoaK9ZJEcc)
+https://www.youtube.com/watch?v=SGoaK9ZJEcc
+https://youtu.be/SGoaK9ZJEcc
+
+## Tampilan Aplikasi
 ![Preview](/1.jpg)
 ![Preview](2.jpg)
 ![Preview](3.jpg)

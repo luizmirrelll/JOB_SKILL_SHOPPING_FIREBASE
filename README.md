@@ -1,3 +1,14 @@
+Persiapan
+-------------------------------------------------------------------------------------------------------------------------------
+INSTALL FLUTTER
+-------------------------------------------------------------------------------------------------------------------------------
+Persiapan : Install Visual Studio Code (Pilih Sesuai OS)
+
+- File Master Flutter Bisa Download File Flutter Disini (https://flutter.dev/docs/get-started/install/windows)
+- Untuk Mac Atau Linux bisa cek disini (https://flutter.dev/docs/get-started/install )
+- Instalasi Flutter Cek Vidio (https://www.youtube.com/watch?v=kx0jbUQIS10 )
+- Versi Lengkap : Integrasi dengan VS Code Bisa Cek disini (https://www.youtube.com/watch?v=5izFFbdHnWY ) tapi Sebelum nya Aktifkan Emulator nya dulu ya, atau jika Emulator pada Android Studio Teralu Besar/Berat bisa Coba Emulator lain Seperti Geny Montion, atau Build Langsung di Real Device Smartphone android nya.
+
 # APLIKASI SHOPING DENGAN FIREBASE
 
 *Cara Install

@@ -1,6 +1,6 @@
 # Daftar Isi
 
-1. [Persiapan](# Persiapan)
+1. [Persiapan](#Persiapan)
 
 2. [INSTALL FLUTTER](# INSTALL FLUTTER)
 

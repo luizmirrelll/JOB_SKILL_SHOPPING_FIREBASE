@@ -1,6 +1,22 @@
-Persiapan
+# Daftar Isi
+
+1. [Persiapan](# Persiapan)
+
+2. [INSTALL FLUTTER](# INSTALL FLUTTER)
+
+3. [Firebase Isntall](# FIREBASE)
+
+4. [Install Project](# INSTALASI PROJECT)
+
+5. [APLIKASI SHOPING DENGAN FIREBASE](# APLIKASI SHOPING DENGAN FIREBASE)
+
+4. [VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE](# VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE)
+
+4. [Tampilan Aplikasi](# Tampilan Aplikasi)
+
+## Persiapan
 -------------------------------------------------------------------------------------------------------------------------------
-INSTALL FLUTTER
+## INSTALL FLUTTER
 -------------------------------------------------------------------------------------------------------------------------------
 Persiapan : Install Visual Studio Code (Pilih Sesuai OS)
 
@@ -9,7 +25,7 @@ Persiapan : Install Visual Studio Code (Pilih Sesuai OS)
 - Instalasi Flutter Cek Vidio (https://www.youtube.com/watch?v=kx0jbUQIS10 )
 - Versi Lengkap : Integrasi dengan VS Code Bisa Cek disini (https://www.youtube.com/watch?v=5izFFbdHnWY ) tapi Sebelum nya Aktifkan Emulator nya dulu ya, atau jika Emulator pada Android Studio Teralu Besar/Berat bisa Coba Emulator lain Seperti Geny Montion, atau Build Langsung di Real Device Smartphone android nya.
 
-FIREBASE
+## FIREBASE
 ------------------------------------------------------------------------------------------------------------------------------
 
 - Masuk di https://console.firebase.google.com 
@@ -39,7 +55,7 @@ Catatan : Ganti Tulisan yourname diatas dengan Path Android anda di PC/Laptop
 
 
 
-INSTALASI PROJECT
+## INSTALASI PROJECT
 ---------------------------------------------------------------------------------------------------------------------------
 
 - Clone Project ini.
@@ -64,10 +80,8 @@ name: contoh(com.latihan3.project)  yang tadi anda sudah register.
 
 
 
-SELAMAT MENCOBA
 
-
-# APLIKASI SHOPING DENGAN FIREBASE
+## APLIKASI SHOPING DENGAN FIREBASE
 
 *Cara Install
 - install seperti biasa

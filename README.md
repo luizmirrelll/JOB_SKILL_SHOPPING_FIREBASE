@@ -80,10 +80,7 @@ SELAMAT MENCOBA
 
 
 ## [VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE](https://youtu.be/SGoaK9ZJEcc)
-https://www.youtube.com/watch?v=SGoaK9ZJEcc
-https://youtu.be/SGoaK9ZJEcc
-https://img.youtube.com/vi/SGoaK9ZJEcc/maxresdefault.jpg
-https://img.youtube.com/vi/SGoaK9ZJEcc/hqdefault.jpg
+![alt text](https://id.pinterest.com/pin/406379566356335275/)
 
 ## Tampilan Aplikasi
 ![Preview](/1.jpg)

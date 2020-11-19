@@ -22,7 +22,7 @@ Persiapan : Install Visual Studio Code (Pilih Sesuai OS)
 
 ## CARA INSTALL
 ## [Watch it on YouTube](https://youtu.be/SGoaK9ZJEcc)
-![Preview](/1.jpg)
+![Preview](img width="756" /1.jpg)
 ![Preview](2.jpg)
 ![Preview](3.jpg)
 ![Preview](4.jpg)

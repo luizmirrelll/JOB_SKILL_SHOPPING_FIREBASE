@@ -79,7 +79,7 @@ SELAMAT MENCOBA
 -sekian dan terima kasih
 
 
-## [VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE](https://youtu.be/SGoaK9ZJEcc)
+## [VIDEO CARA PENGOPERASIKAN APLIKASI SHOP FIREBASE](https://youtu.be/SGoaK9ZJEcc) <== klik disini
 ![alt text](https://turbologo.com/articles/wp-content/uploads/2019/10/youtube-logo-illustration-678x381.jpg.webp)
 
 ## Tampilan Aplikasi

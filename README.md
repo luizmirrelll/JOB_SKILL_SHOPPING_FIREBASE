@@ -97,12 +97,6 @@ name: contoh(com.latihan3.project)  yang tadi anda sudah register.
 ![alt text](https://turbologo.com/articles/wp-content/uploads/2019/10/youtube-logo-illustration-678x381.jpg.webp)
 
 ## Tampilan Aplikasi
-![Preview](1.jpg)
-![Preview](2.jpg)
-![Preview](3.jpg)
-![Preview](4.jpg)
-![Preview](5.jpg)
-![Preview](6.jpg)
 
 <p align="center">
   <img src="1.jpg" width="350" title="hover text">

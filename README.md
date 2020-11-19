@@ -10,7 +10,7 @@
 -sekian dan terima kasih
 
 ## CARA INSTALL
-![Preview](https://youtu.be/SGoaK9ZJEcc)
+## [Watch it on YouTube](https://youtu.be/SGoaK9ZJEcc)
 ![Preview](/1.jpg)
 ![Preview](2.jpg)
 ![Preview](3.jpg)

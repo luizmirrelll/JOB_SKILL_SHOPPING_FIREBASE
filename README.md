@@ -107,4 +107,8 @@ name: contoh(com.latihan3.project)  yang tadi anda sudah register.
 <p align="center">
   <img src="1.jpg" width="350" title="hover text">
   <img src="2.jpg" width="350" alt="accessibility text">
+  <img src="3.jpg" width="350" alt="accessibility text">
+  <img src="4.jpg" width="350" alt="accessibility text">
+  <img src="5.jpg" width="350" alt="accessibility text">
+  <img src="6.jpg" width="350" alt="accessibility text">
 </p>
